@@ -1,2 +1,2 @@
 "# predictive-project" 
-this is phaython project
+this is python project
