@@ -1,0 +1,8 @@
+pandas
+matplotlib
+seaborn
+geopandas
+plotly
+scikit-learn
+pyspark
+dvc
